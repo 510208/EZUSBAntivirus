@@ -1,0 +1,1 @@
+copy nul autorun.ini >log.txt
